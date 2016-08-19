@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-fffffff
+
 int main()
 {
-cout<<"hellow";
+cout<<"hello samshiv";
 return 0;
 }
